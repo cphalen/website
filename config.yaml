@@ -1,0 +1,30 @@
+baseURL: /
+languageCode: en-us
+title: Campbell Phalen
+theme: m10c
+# menu:
+#   main:
+#     - identifier: tags
+#       name: Tags
+#       url: /tags/
+params:
+  author: Campbell Phalen
+  description: 'Junior at the University of Pennsylvania studying Networked Social Systems Engineering'
+  menu_item_separator: ' - '
+  avatar: "avatar.png"
+  social:
+    - icon: github
+      name: Github
+      url: 'https://github.com/cphalen/'
+    - icon: linkedin
+      name: Linkedin
+      url: 'https://www.linkedin.com/in/campbell-phalen/'
+    - icon: twitter
+      name: Twitter
+      url: 'https://twitter.com/cyp1024/'
+  style:
+    darkestColor: '#242930'
+    darkColor: '#353b43'
+    lightColor: '#afbac4'
+    lightestColor: '#ffffff'
+    primaryColor: '#57cc8a'
