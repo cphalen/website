@@ -1,0 +1,29 @@
+---
+title: "DeepFakes: Who’s Mess to Clean Up?"
+date: 2021-12-09T00:36:50-05:00
+draft: false
+---
+
+In the past 5 years we’ve seen the emergence of a new type of doctored media on the internet: _deepfakes_. In just the past three years, deepfake creators have targeted [President Barack Obama](https://www.businessinsider.com/obama-deepfake-video-insulting-trump-2018-4), [Meta CEO Mark Zuckerberg](https://www.vice.com/en/article/ywyxex/deepfake-of-mark-zuckerberg-facebook-fake-video-policy), and more recently [Ukrainian President Volodymyr Zelenskyy](https://www.wired.com/story/zelensky-deepfake-facebook-twitter-playbook/). Evident from these examples, the potential for misuse with deepfakes enormous. However, deepfakes are only a part of the equation: exploiting social media is also an essential piece of the puzzle.
+
+<center><div style="transform: scale(0.8); position: relative; bottom: 60px; margin-bottom: -100px;"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">A deepfake of Ukrainian President Volodymyr Zelensky calling on his soldiers to lay down their weapons was reportedly uploaded to a hacked Ukrainian news website today, per <a href="https://twitter.com/Shayan86?ref_src=twsrc%5Etfw">@Shayan86</a> <a href="https://t.co/tXLrYECGY4">pic.twitter.com/tXLrYECGY4</a></p>&mdash; Mikael Thalen (@MikaelThalen) <a href="https://twitter.com/MikaelThalen/status/1504123674516885507?ref_src=twsrc%5Etfw">March 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+Fake news or misinformation creators also have an [eye for what kind of content will go viral](https://www.scientificamerican.com/article/how-fake-news-goes-viral-mdash-heres-the-math/). It is important that their deepfakes carry a particular message, but if the presentation is shocking or plays into viewers’ fears, they are more likely to circulate on social media. For example, in 2018 a [deepfake video of Donald Trump announcing](https://www.theguardian.com/technology/2018/nov/12/deep-fakes-fake-news-truth) that the US would be exiting the Paris climate accord surfaced on Twitter & Facebook
+
+By creating content that is likely to spread on social networks, deepfake creators are leveraging the network effects of platforms like Twitter and Facebook to disseminate their fake news to a large audience. So, the question becomes, what are social media platforms doing to prevent the spread of this harmful content?
+
+Twitter, which has the most sophisticated pipeline for address fake news from their platform, has a policy against high-fidelity manipulated media. While there are clear instructions on how to report an issue, the technology is not sophisticated enough to recognize deepfakes automatically. Instead, Twitter relies on humans noticing that a video is either suspicious or inconsistent with other information sources, then does a manual review of any reported media.
+
+Meta banned deepfakes from their Facebook and Instagram platforms over two years ago, but does not have a transparent process for addresses reported or flagged content. Additionally, Facebook does allow for satirical deepfakes, which has its own host of problems as it is difficult to address the legality of what is satirical.
+
+Certainly, these big tech companies have not ignored the existence of deepfakes, but I would say they have not made an major steps to prevent their spread on their platforms. While manual review pipelines are good, an issue of scale arises on networks with billions of users. Deepfakes are still in their earlier stages and they appear infrequently. However, if we get to a point where the technology is accessible enough that thousands or even tens of thousands of deepfakes are published every day, no manual review process is going to keep up with identifying all of that manipulated media.
+
+For these reasons we need an automatic classifier for manipulated media, and it needs to be the tech companies that fund that research. If tech companies are going to leverage the benefits of an expansive and profitable social network, it needs to be their responsibility to regulate those networks.
+
+Historically, Meta has pleaded that it need not regulate its own system because First Amendment rights give users the power to say anything they would like on the internet. However, a completely doctored video putting words in the mouth of a public figure is certainly defamation and Facebook should not be allowed to circulate that media without consequences. Social media is the intermediary and by serving people content that is counterfactual they are at fault. 
+
+While a government mandate that Meta, Twitter, or Google fund research into deepfake recognition is unlikely, we can push for punitive measures against social media networks that will encourage them to prevent the spread of deepfakes. If there are consequences to the spread of deepfakes on their platforms, tech companies will do more than the bare minimum to address the issue.
+
+To their credit, Meta has already assembled a database of deepfake videos for research purposes to help train neural networks to identify doctored videos. The deepfake problem is only going to accelerate as the technology developers and becomes more accessible to a wider audience, so technology for combating deepfakes must advance at the same rate.
+
+One final call to action these tech companies to address the deepfakes on their platform is simple: no one else is really equipped to solve this problem. Researchers have poured years of their lives and endless brainpower into this problem, but without the significant resources and data at the disposal of these tech companies, solving the deepfake problem once and for all is a nearly insurmountable task.
